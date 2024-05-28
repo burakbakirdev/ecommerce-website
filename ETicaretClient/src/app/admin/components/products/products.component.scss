@@ -1,0 +1,17 @@
+.product-sidenav {
+    width: auto;
+    // min-height: 374px;
+    margin: 10px;
+    border: 1px solid #555;
+    /* The background property is added to clearly distinguish the borders between drawer and main
+       content */
+    background: #252525;
+}
+
+.product-sidenav-left{
+    background-color: aliceblue;
+}
+
+.product-sidenav-right{
+    background-color: white;
+}

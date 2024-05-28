@@ -1,0 +1,19 @@
+<mat-form-field appearance="fill" class="product-sidenav-input">
+    <mat-label>Name</mat-label>
+    <input matInput #txtName>
+</mat-form-field>
+<mat-form-field appearance="fill" class="product-sidenav-input">
+    <mat-label>Stock</mat-label>
+    <input matInput type="number" min="0" placeholder="0" value="0" #txtStock (focus)="selectAllText($event)">
+</mat-form-field>
+<mat-form-field appearance="fill" class="product-sidenav-input">
+    <mat-label>Price</mat-label>
+    <input matInput type="number" min="0" placeholder="0" value="0" #txtPrice (focus)="selectAllText($event)">
+</mat-form-field>
+
+<button mat-flat-button color="primary" class="btn" (click)="create(txtName, txtStock, txtPrice)">Create
+    Product</button>
+
+<hr/>
+
+<app-file-upload [options]="fileUploadOptions"></app-file-upload>

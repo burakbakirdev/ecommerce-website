@@ -1,0 +1,17 @@
+C:\Projects\ETicaretSitesi\ETicaretAPI\Infrastructure\ETicaretAPI.Infrastructure\bin\Debug\net8.0\ETicaretAPI.Infrastructure.deps.json
+C:\Projects\ETicaretSitesi\ETicaretAPI\Infrastructure\ETicaretAPI.Infrastructure\bin\Debug\net8.0\ETicaretAPI.Infrastructure.dll
+C:\Projects\ETicaretSitesi\ETicaretAPI\Infrastructure\ETicaretAPI.Infrastructure\bin\Debug\net8.0\ETicaretAPI.Infrastructure.pdb
+C:\Projects\ETicaretSitesi\ETicaretAPI\Infrastructure\ETicaretAPI.Infrastructure\bin\Debug\net8.0\ETicaretAPI.Application.dll
+C:\Projects\ETicaretSitesi\ETicaretAPI\Infrastructure\ETicaretAPI.Infrastructure\bin\Debug\net8.0\ETicaretAPI.Domain.dll
+C:\Projects\ETicaretSitesi\ETicaretAPI\Infrastructure\ETicaretAPI.Infrastructure\bin\Debug\net8.0\ETicaretAPI.Application.pdb
+C:\Projects\ETicaretSitesi\ETicaretAPI\Infrastructure\ETicaretAPI.Infrastructure\bin\Debug\net8.0\ETicaretAPI.Domain.pdb
+C:\Projects\ETicaretSitesi\ETicaretAPI\Infrastructure\ETicaretAPI.Infrastructure\obj\Debug\net8.0\ETicaretAPI.Infrastructure.csproj.AssemblyReference.cache
+C:\Projects\ETicaretSitesi\ETicaretAPI\Infrastructure\ETicaretAPI.Infrastructure\obj\Debug\net8.0\ETicaretAPI.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\ETicaretSitesi\ETicaretAPI\Infrastructure\ETicaretAPI.Infrastructure\obj\Debug\net8.0\ETicaretAPI.Infrastructure.AssemblyInfoInputs.cache
+C:\Projects\ETicaretSitesi\ETicaretAPI\Infrastructure\ETicaretAPI.Infrastructure\obj\Debug\net8.0\ETicaretAPI.Infrastructure.AssemblyInfo.cs
+C:\Projects\ETicaretSitesi\ETicaretAPI\Infrastructure\ETicaretAPI.Infrastructure\obj\Debug\net8.0\ETicaretAPI.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Projects\ETicaretSitesi\ETicaretAPI\Infrastructure\ETicaretAPI.Infrastructure\obj\Debug\net8.0\ETicaret.21F566A7.Up2Date
+C:\Projects\ETicaretSitesi\ETicaretAPI\Infrastructure\ETicaretAPI.Infrastructure\obj\Debug\net8.0\ETicaretAPI.Infrastructure.dll
+C:\Projects\ETicaretSitesi\ETicaretAPI\Infrastructure\ETicaretAPI.Infrastructure\obj\Debug\net8.0\refint\ETicaretAPI.Infrastructure.dll
+C:\Projects\ETicaretSitesi\ETicaretAPI\Infrastructure\ETicaretAPI.Infrastructure\obj\Debug\net8.0\ETicaretAPI.Infrastructure.pdb
+C:\Projects\ETicaretSitesi\ETicaretAPI\Infrastructure\ETicaretAPI.Infrastructure\obj\Debug\net8.0\ref\ETicaretAPI.Infrastructure.dll
